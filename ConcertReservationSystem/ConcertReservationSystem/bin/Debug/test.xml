@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfSeat xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Seat>
+    <seatNumber>1</seatNumber>
+    <seatCustomerName />
+    <isReserved>false</isReserved>
+  </Seat>
+  <Seat>
+    <seatNumber>2</seatNumber>
+    <seatCustomerName />
+    <isReserved>false</isReserved>
+  </Seat>
+  <Seat>
+    <seatNumber>3</seatNumber>
+    <seatCustomerName />
+    <isReserved>false</isReserved>
+  </Seat>
+  <Seat>
+    <seatNumber>4</seatNumber>
+    <seatCustomerName />
+    <isReserved>false</isReserved>
+  </Seat>
+  <Seat>
+    <seatNumber>5</seatNumber>
+    <seatCustomerName />
+    <isReserved>false</isReserved>
+  </Seat>
+  <Seat>
+    <seatNumber>6</seatNumber>
+    <seatCustomerName />
+    <isReserved>false</isReserved>
+  </Seat>
+  <Seat>
+    <seatNumber>7</seatNumber>
+    <seatCustomerName />
+    <isReserved>false</isReserved>
+  </Seat>
+  <Seat>
+    <seatNumber>8</seatNumber>
+    <seatCustomerName />
+    <isReserved>false</isReserved>
+  </Seat>
+  <Seat>
+    <seatNumber>9</seatNumber>
+    <seatCustomerName />
+    <isReserved>false</isReserved>
+  </Seat>
+  <Seat>
+    <seatNumber>10</seatNumber>
+    <seatCustomerName />
+    <isReserved>false</isReserved>
+  </Seat>
+  <Seat>
+    <seatNumber>11</seatNumber>
+    <seatCustomerName />
+    <isReserved>false</isReserved>
+  </Seat>
+  <Seat>
+    <seatNumber>12</seatNumber>
+    <seatCustomerName />
+    <isReserved>false</isReserved>
+  </Seat>
+  <Seat>
+    <seatNumber>13</seatNumber>
+    <seatCustomerName />
+    <isReserved>false</isReserved>
+  </Seat>
+  <Seat>
+    <seatNumber>14</seatNumber>
+    <seatCustomerName />
+    <isReserved>false</isReserved>
+  </Seat>
+  <Seat>
+    <seatNumber>15</seatNumber>
+    <seatCustomerName />
+    <isReserved>false</isReserved>
+  </Seat>
+  <Seat>
+    <seatNumber>16</seatNumber>
+    <seatCustomerName />
+    <isReserved>false</isReserved>
+  </Seat>
+</ArrayOfSeat>
